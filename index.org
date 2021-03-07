@@ -1,0 +1,11 @@
+#+TITLE: Profound Labs
+#+OPTIONS: tasks:nil ':t H:4 author:nil
+#+SETUPFILE: ./assets/org-html-themes/org/theme-readtheorg.setup
+
+* Projects
+
+- [[https://profound-labs.github.io/prophecy-template][Prophecy LaTeX Book Template]]
+- [[https://github.com/profound-labs/wallcalendar][Wallcalendar]]
+- [[https://github.com/profound-labs/manuscript-reference][Manuscript Reference]]
+- [[https://github.com/profound-labs/gentium-incantation-font][Gentium Incantation Font]]
+
